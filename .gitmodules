@@ -1,0 +1,3 @@
+[submodule "project/dist"]
+	path = project/dist
+	url = git://github.com/dhamothy/uiout.git
