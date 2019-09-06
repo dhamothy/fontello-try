@@ -1,3 +1,6 @@
 [submodule "project/dist"]
 	path = project/dist
-	url = git://github.com/dhamothy/uiout.git
+	url = git@github.com:dhamothy/uiout.git
+[submodule "framework/sass"]
+	path = framework/sass
+	url = git@github.com:dhamothy/uiout.git
